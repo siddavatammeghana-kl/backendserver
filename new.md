@@ -1,0 +1,1 @@
+mongodb://Meghanareddy:<40107meghana>@ac-x0se5so-shard-00-00.wtcwry7.mongodb.net:27017,ac-x0se5so-shard-00-01.wtcwry7.mongodb.net:27017,ac-x0se5so-shard-00-02.wtcwry7.mongodb.net:27017/usersdb?ssl=true&replicaSet=atlas-i9bf0r-shard-0&authSource=admin&appName=Cluster0
